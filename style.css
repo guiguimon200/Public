@@ -1,0 +1,27 @@
+.body {
+    background-color: #f19635; 
+    width: 500px; 
+    height: 500px;
+}
+.filhoA {
+    background-color: #a1f645; 
+    height: 50%; 
+    width: 50%;
+}
+.mensagem {
+    background-color: red; 
+    color: white; 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bolder;
+}
+.embaixoA {
+    width: 50vw; 
+    height: 50vh; 
+    background-color: rgb(122, 206, 243);
+}
+.embaixoB {
+    width: 75vw; 
+    height: 50%; 
+    background-color: rgb(216, 51, 51)
+}
